@@ -1,4 +1,4 @@
-## Lab - Attacking a mySQL Database
+## Lab - Attacking a MySQL Database
 
 ## Objective:
 Understand how SQL injection vulnerabilities can be exploited and how to monitor traffic using Wireshark.
