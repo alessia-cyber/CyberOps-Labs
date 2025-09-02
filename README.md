@@ -10,6 +10,10 @@ It showcases practical experience in security operations, threat detection, and 
 - Working with firewall and IDS/IPS rules;
 - Understanding core SOC operations.
 
+## Labs:
+1. [Attacking a MySQL Database] - (labs/attacking-a-mysql-database/README.md)
+
+
 ## Goals:
 - Build a strong foundation in SOC operations and cybersecurity concepts;
 - Document hands-on labs and exercises for future reference;
