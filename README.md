@@ -11,7 +11,7 @@ It showcases practical experience in security operations, threat detection, and 
 - Understanding core SOC operations.
 
 ## Labs:
-1. [Attacking a MySQL Database (labs/attacking-a-mysql-database/README.md)
+1. [Attacking a MySQL Database] (labs/attacking-a-mysql-database/README.md)
 
 ## Goals:
 - Build a strong foundation in SOC operations and cybersecurity concepts;
