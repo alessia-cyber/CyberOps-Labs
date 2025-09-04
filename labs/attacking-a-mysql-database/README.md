@@ -1,9 +1,9 @@
 ## Lab - Attacking a MySQL Database
 
-## Objective:
+## Objective
 Understand how SQL injection vulnerabilities can be exploited and how to monitor traffic using Wireshark.
 
-## Steps Taken:
+## Steps Taken
 1. Opened the PCAP file in Wireshark;  
 2. Observed the IP addresses involved in the communication;  
 3. Followed HTTP streams to analyze how input was processed;  
@@ -12,16 +12,16 @@ Understand how SQL injection vulnerabilities can be exploited and how to monitor
 6. Observed queries to understand how data was handled;  
 7. Analyzed password hashes to learn how sensitive information can appear in traffic.
 
-## Skills Practiced:
+## Skills Practiced
 - Network traffic analysis with Wireshark;
 - Recognizing suspicious patterns in network communications;
 - Understanding database security and potential vulnerabilities.
 
-## Lessons Learned:
+## Lessons Learned
 - Applications that do not properly handle input can expose sensitive data; 
 - Awareness of attack patterns helps improve detection and mitigation strategies.
 
-## Disclaimer:
+## Disclaimer
 This repository is for **educational purposes only**.  
 It does **not** provide step-by-step attack instructions.  
 No official Cisco lab instructions or copyrighted material are included.
