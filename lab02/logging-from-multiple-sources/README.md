@@ -10,7 +10,7 @@ The focus was on understanding how different sources generate security data and 
 1. Enabled a Syslog service to capture messages from multiple devices.
 2. Observed how debug-level routing protocol messages were logged centrally.
 3. Monitored user authentication and logout events using AAA/TACACS+.
-4. Generated traffic and verified it was recorded by a NetFlow collector.
+4. Generated traffic and verified it was recorded by a NetFlow system.
 
 ## Skills Practiced
 
