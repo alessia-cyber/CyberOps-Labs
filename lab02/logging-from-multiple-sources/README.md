@@ -22,8 +22,8 @@ The focus was on understanding how different sources generate security data and 
 ## Lessons Learned
 
 - Each logging/monitoring tool provides value but in isolation.
-- Real-world environments rely on SIEM platforms to correlate these data sources into a single pane of glass.
-- Effective monitoring is about both capturing and correlating events to make sense of network activity.
+- Effective monitoring requires both capturing events and analyzing them.
+- Logging, monitoring, and correlation are essential skills for security operations.
 
 ## Disclaimer
 
