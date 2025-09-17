@@ -22,6 +22,6 @@ Understand how SQL injection vulnerabilities can be exploited and how to monitor
 - Awareness of attack patterns helps improve detection and mitigation strategies.
 
 ## Disclaimer
-This repository is for **educational purposes only**.  
+This repository is for **educational and portfolio purposes only**.  
 It does **not** provide step-by-step attack instructions.  
 No official Cisco lab instructions or copyrighted material are included.
