@@ -27,6 +27,6 @@ Practice monitoring and responding to malicious traffic using Snort IDS and fire
 
 ## Disclaimer
 
-This repository is for educational purposes only.
+This repository is for educational and portfolio purposes only.
 It does not provide step-by-step attack instructions.
 No official Cisco lab instructions or copyrighted material are included.
