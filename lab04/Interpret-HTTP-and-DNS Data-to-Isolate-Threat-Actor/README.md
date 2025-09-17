@@ -26,6 +26,6 @@ Identify attacker IPs and exfiltration domain(s), decode stolen data (redacted),
 - Redact PII during analysis and follow disclosure/incident response policies.
 
 ## Disclaimer
-This repository is for educational purposes only.
+This repository is for educational and portfolio purposes only.
 It does not provide step-by-step attack instructions.
 No official Cisco lab instructions or copyrighted material are included.
