@@ -21,5 +21,5 @@ It showcases practical experience in security operations, threat detection, and 
 ## Disclaimer
 This repository contains my personal notes and summaries based on the Cisco CyberOps Associate course.  
 It does **not** include official Cisco lab instructions, exam content, or copyrighted material.  
-All content here reflects my own learning experience and is shared for educational purposes only.  
+All content here reflects my own learning experience and is shared for educational and portfolio purposes only.  
 
