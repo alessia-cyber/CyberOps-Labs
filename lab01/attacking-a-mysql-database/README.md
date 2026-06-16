@@ -12,7 +12,7 @@ Understand how SQL injection vulnerabilities can be exploited and how to monitor
 6. Observed queries to understand how data was handled;  
 7. Analyzed password hashes to learn how sensitive information can appear in traffic.
 
-## Skills Practiced
+## Skills Acquired
 - Network traffic analysis with Wireshark;
 - Recognizing suspicious patterns in network communications;
 - Understanding database security and potential vulnerabilities.
