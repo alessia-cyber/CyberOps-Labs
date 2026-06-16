@@ -4,11 +4,11 @@ This repository documents my hands-on practice from the **Cisco CyberOps Associa
 It showcases practical experience in security operations, threat detection, and incident response.
 
 ## Key Skills Demonstrated
-- Analyzing and interpreting security alerts;  
-- Investigating network traffic with Wireshark; 
-- Applying incident response workflows; 
-- Working with firewall and IDS/IPS rules;
-- Understanding core SOC operations.
+- Analyzed and interpreting security alerts;  
+- Investigated network traffic with Wireshark; 
+- Applied incident response workflows; 
+- Worked with firewall and IDS/IPS rules;
+- Understood core SOC operations.
 
 ## Goals
 - Build a strong foundation in SOC operations and cybersecurity concepts;
