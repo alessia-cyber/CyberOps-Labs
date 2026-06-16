@@ -14,8 +14,8 @@ Understand how SQL injection vulnerabilities can be exploited and how to monitor
 
 ## Skills Acquired
 - Network traffic analysis with Wireshark;
-- Recognizing suspicious patterns in network communications;
-- Understanding database security and potential vulnerabilities.
+- Recognized suspicious patterns in network communications;
+- Understood database security and potential vulnerabilities.
 
 ## Lessons Learned
 - Applications that do not properly handle input can expose sensitive data; 
