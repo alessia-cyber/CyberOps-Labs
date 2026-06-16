@@ -13,11 +13,11 @@ Identify attacker IPs and exfiltration domain(s), decode stolen data (redacted),
 6. Exported DNS queries to CSV, isolated hex strings, decoded locally, and redacted sensitive content.
 7. Correlated HTTP and DNS timelines to confirm compromise → extraction → exfiltration.
 
-## Skills Practiced
-- Kibana queries & time-range analysis
-- HTTP payload forensics and pcap validation
-- DNS exfiltration detection and decoding
-- IOC generation and timeline correlation
+## Skills Acquired
+- Kibana queries & time-range analysis;
+- HTTP payload forensics and pcap validation;
+- DNS exfiltration detection and decoding;
+- IOC generation and timeline correlation.
 
 ## Lessons Learned
 - Sanitize inputs and use parameterized queries to prevent SQLi.
