@@ -12,12 +12,12 @@ The focus was on understanding how different sources generate security data and 
 3. Monitored user authentication and logout events using AAA/TACACS+.
 4. Generated traffic and verified it was recorded by a NetFlow system.
 
-## Skills Practiced
+## Skills Acquired
 
-- Interpreting log data: timestamps, severity levels, and event details.
-- Understanding authentication logging and accountability.
-- Analyzing network traffic patterns through flow data.
-- Connecting how these individual tools fit into a SOC workflow.
+- Interpreted log data: timestamps, severity levels, and event details.
+- Understood authentication logging and accountability.
+- Analyzed network traffic patterns through flow data.
+- Connected how these individual tools fit into a SOC workflow.
 
 ## Lessons Learned
 
