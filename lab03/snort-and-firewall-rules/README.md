@@ -12,11 +12,11 @@ Practice monitoring and responding to malicious traffic using Snort IDS and fire
 4. Tuned firewall rules to block malicious traffic and verified effectiveness.
 5. Safely terminated the virtual network processes.
 
-## Skills Practiced
+## Skills Acquired
 
 - IDS monitoring and alert interpretation.
 - Basic firewall rule configuration and tuning.
- -Analyzing traffic flow in a virtual environment.
+ -Analyzed traffic flow in a virtual environment.
 - Incident detection and response workflow understanding.
 
 ## Lessons Learned
